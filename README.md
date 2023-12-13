@@ -1,1 +1,1 @@
-# gradients.jinxed.cf
+# Random Gradient Generator
